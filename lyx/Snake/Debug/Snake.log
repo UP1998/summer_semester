@@ -1,0 +1,30 @@
+﻿生成启动时间为 7/3/2017 10:22:58 PM。
+     1>项目“C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Snake.vcxproj”在节点 2 上(rebuild 个目标)。
+       项目文件包含 ToolsVersion="14.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>_PrepareForClean:
+         正在删除文件“Debug\Snake.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\Snake.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt game_opration.c LinkList.c snake_and_food.c ui.c
+         ui.c
+         snake_and_food.c
+         LinkList.c
+         game_opration.c
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Debug\Snake.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Snake.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Debug\Snake.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Debug\Snake.lib" /MACHINE:X86 Debug\game_opration.obj
+         Debug\LinkList.obj
+         Debug\snake_and_food.obj
+         Debug\ui.obj
+         Snake.vcxproj -> C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Debug\Snake.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Debug\Snake.exe;#1" /manifest Debug\Snake.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Snake.unsuccessfulbuild”。
+         正在对“Debug\Snake.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\yuxuan li\Desktop\summer_semester-master\samples\Snake\Snake.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.98
