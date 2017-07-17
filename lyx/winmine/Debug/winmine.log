@@ -1,0 +1,27 @@
+﻿生成启动时间为 7/17/2017 11:17:41 AM。
+     1>项目“C:\Users\yuxuan li\Documents\Visual Studio 2010\Projects\VSMacros80\homework1-1\winmine\winmine\winmine.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\winmine.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ui.c
+         ui.c
+     1>c:\users\yuxuan li\documents\visual studio 2010\projects\vsmacros80\homework1-1\winmine\winmine\mine.h(63): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yuxuan li\Documents\Visual Studio 2010\Projects\VSMacros80\homework1-1\winmine\Debug\winmine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\winmine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yuxuan li\Documents\Visual Studio 2010\Projects\VSMacros80\homework1-1\winmine\Debug\winmine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yuxuan li\Documents\Visual Studio 2010\Projects\VSMacros80\homework1-1\winmine\Debug\winmine.lib" /MACHINE:X86 Debug\winmine.exe.embed.manifest.res
+         Debug\ui.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\winmine.exe.embed.manifest" /manifest Debug\winmine.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         winmine.vcxproj -> C:\Users\yuxuan li\Documents\Visual Studio 2010\Projects\VSMacros80\homework1-1\winmine\Debug\winmine.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\winmine.unsuccessfulbuild”。
+         正在对“Debug\winmine.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\yuxuan li\Documents\Visual Studio 2010\Projects\VSMacros80\homework1-1\winmine\winmine\winmine.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.69
